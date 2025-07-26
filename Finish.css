@@ -1,5 +1,5 @@
 body {
-  background-image: url('/IMG_0968.jpeg');
+  background-image: url("./FOND.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -10,8 +10,7 @@ body {
   height: 100vh;           /* prend toute la hauteur de l’écran */
   margin: 0;               /* retire les marges par défaut */
   flex-direction: column; /* pour que les éléments soient empilés */
-  background-color: #f0f0f0; /* facultatif : fond clair */
-  font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 .MS {
   
