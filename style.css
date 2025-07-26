@@ -37,6 +37,7 @@ input[type="password"]{
   outline: none;
   transition: border-color 0.3s;
   margin-bottom: 10px;
+  font-size: 19px;
 }
 
 input { 
