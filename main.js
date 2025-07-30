@@ -7,5 +7,5 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
   // Tu peux ajouter ici une condition pour vérifier email + mot de passe
   
   // Redirection vers une autre page
-  window.location.href = "Pseudo.html"; // Change "home.html" par ta vraie page
+  window.location.href = "Finish.html"; // Change "home.html" par ta vraie page
 });
